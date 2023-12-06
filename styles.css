@@ -1,0 +1,188 @@
+﻿
+		.auto-style3 {
+			border-width: 1px;
+		}
+.auto-style3 {
+			border-width: 1px;
+		}
+		.auto-style4 {
+			margin-left: 214px;
+			margin-top: 0px;
+			margin-bottom: 15px;
+		}
+		.auto-style5 {
+	vertical-align: middle;
+	background-color: #0099FF;
+}
+		.auto-style6 {
+	border-style: solid;
+	border-width: 1px;
+	background-color: #0099FF;
+}
+.auto-style7 {
+	border-color: #000000;
+	border-width: 2500px;
+	background-color: #0099FF;
+}
+.autostyle8 {
+	border-color: #000000;
+	border-width: 1px;
+	background-color: #CC66FF;
+}
+.table {
+	max-width: 1500;
+	border-bottom-color: #000000; 
+	border-color: #000000;  
+	background-color: #CC66FF;
+	 border-left-color: #000000;
+	  border-right-color: #000000;
+	   border-top-color: #000000;
+	   border: 1px solid black
+}
+.homedesign1{
+	max-width: 2500px;
+	border-width:2500px;
+ background-color: #0099FF;
+ border: 1px solid black 
+}
+.homedesign2{
+	max-width: 2500px;
+	background-color: #0099FF
+
+}
+.homedesign3{
+max-width: 2500px;
+	border-width:2500px;
+ background-color: #CC66FF;
+ border: 1px solid black 
+}
+<!-- about page
+.About1{ 
+			border-collapse: collapse;
+			background-color: #0099FF;
+			max-width: 1500;
+		}
+.auto-style1 {
+			border-style: solid;
+			border-width: 1px;
+			border: 1px solid black
+		}
+.auto-style2 {
+			text-align: center;
+		}
+.About2 {
+	max-width: 1500;
+	  border-bottom-color: #000000;
+	   border-color: #000000; 
+	   background-color: #CC66FF; 
+	   border-left-color: #000000; 
+	   border-right-color: #000000; 
+	   border-top-color: #000000;
+	   border:1px solid black;
+}
+About3{
+	vertical-align:"middle"
+}
+About4{
+	border-width:"200%";
+	 
+	
+}
+
+ packages pages	
+.auto-style2 {
+			margin-right: 3px;
+		}
+.auto-style3 {
+			vertical-align: middle;
+			font-weight: bold;
+			font-size: xx-large;
+		}
+.packagesTable{
+	border: 1px solid black;
+	max-width: 1500;
+	 background-color: #CC66FF;
+	  border-bottom-color: #000000;
+	   border-left-color: #000000;
+	    border-right-color: #000000;
+		 border-top-color: #000000"
+}	
+ reservation 
+table{
+	border-collapse: collapse
+	background-color, #0099FF
+}
+.auto-style1 {
+	border-style: solid;
+	border-width: 1px;
+}
+.auto-style2 {
+	text-align: center;
+}
+.packagesTable{
+	border-color: #000000;
+	border-width: 150%;
+	border: 1px solid black;
+}
+.packageStyle{
+	border-style:1 px;
+	 border-bottom-color: #000000;
+	  border-color: #000000;
+	   border-left-color: #000000;
+	    border-right-color: #000000;
+		 border-top-color: #000000;
+		 text-align:top 
+
+		  
+}
+.ReservationTable{
+	border-bottom-color: #000000;
+	 border-color: #000000; 
+	 border:1px solid black;
+	  width: 1307px;
+}
+.ReservationTable2{
+	border-bottom-color: #000000;
+	 border-color: #000000;
+	  width: 1500px;
+	   border-left-color: #000000;
+		 border-right-color: #000000;
+		  border-top-color: #000000;
+}
+ attractions 
+.table1{
+			border-collapse: collapse;
+			background-color: #0099FF;
+			border: 1px solid black 
+		}
+.auto-style1 {
+			text-align: center;
+			border-width: 1px;
+		}
+.auto-style2 {
+			border-style: solid;
+			border-width: 1px;
+		}
+.attractionSpan{
+	color: rgb(0, 0, 0); 
+	font-family: 'Söhne Mono', Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	 font-size: 14px;
+	  font-style: normal;
+	   font-variant-ligatures: normal;
+	    font-variant-caps: normal; 
+		font-weight: 400; letter-spacing: normal;
+		 orphans: 2;
+		  text-align:left; 
+		 text-indent: 0px; text-transform: none;
+		  widows: 2; 
+		  word-spacing: 0px; 
+		  -webkit-text-stroke-width: 0px; 
+		  white-space: pre;
+		   background-color: rgb(255, 0, 255); 
+		   text-decoration-thickness: initial;
+		    text-decoration-style: initial;
+			 text-decoration-color: initial;
+			  display: inline !important;
+			   float: none
+			   
+}
